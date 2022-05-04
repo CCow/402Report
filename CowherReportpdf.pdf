@@ -8,6 +8,7 @@
 \usepackage{graphicx}
 \usepackage[usenames]{color}
 \usepackage{hyperref}
+\usepackage{Week2}
   \hypersetup{
     colorlinks = true,
     urlcolor = blue,       % color of external links using \href
@@ -52,7 +53,7 @@
 
 
 \title{CPSC-402 Report\\Compiler Construction}
-\author{Connor Cowher  \\ Chapman University}
+\author{Your Name  \\ Chapman University}
 
 \date{\today}
 
@@ -180,34 +181,14 @@ This section will contain your solutions to homework.
 
 \subsection{Week 1}
 
-\medskip\begin{center}
-\includegraphics[width=15cm, height=15cm]{Weel1.pdf}
-\end{center}
+For most weeks, you will have a subsection that contains your answers.
 
 \subsection{Week 2}
 
-\medskip\begin{center}
-\includegraphics[width=15cm, height=15cm]{Week2 (2).pdf}
-\end{center}
-
-\subsection{Week 3}
-Converting NFAs to DFAs by Hand
-\medskip\begin{center}
-\includegraphics[width=15cm, height=15cm]{Week3.pdf}
-\end{center}
-
-Converting NFAs to DFAs In Haskell Using the List Monad
-\medskip\begin{center}
-\includegraphics[width=15cm, height=15cm]{Week3P2.pdf}
-\end{center}
-
-\subsection{Week4}
-
-
-\subsection{Week10}
-
+\includegraphics{Week2}
 
 \ldots
+
 \section{Project}
 
 The project will be to compile code from a programming language of your choice to assembly and to explain the assembly code and compilation process using the knowledge your learned in this course. 

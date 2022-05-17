@@ -1,5 +1,5 @@
 # 402Report
-##Disclaimer Weeks 4 and 10 were not viewable files. Did not load and looking for sending on different formats as 5:08pm 05/16/2022
+##Disclaimer Weeks 4 and 10 were not viewable files. Did not load and currently looking for a solution tonight as of 5:08pm 05/16/2022
 
 02/15/2022 - Added Week 2 homework to the report.
 

@@ -6,4 +6,4 @@
 
 05/16/2022 - Added pictures of Weeks 4 and 10. Continued to research Project portion of report
 
-05/16/2022 - Cleaned up other sections of report and getting sspace ready for project section
+05/16/2022 - Cleaned up other sections of report and getting space ready for project section
